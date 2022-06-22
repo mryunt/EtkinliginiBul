@@ -1,0 +1,17 @@
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\EtkinliginiBul.Business.csproj.AssemblyReference.cache
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\EtkinliginiBul.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\EtkinliginiBul.Business.AssemblyInfoInputs.cache
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\EtkinliginiBul.Business.AssemblyInfo.cs
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\EtkinliginiBul.Business.csproj.CoreCompileInputs.cache
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\bin\Debug\net6.0\EtkinliginiBul.Business.deps.json
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\bin\Debug\net6.0\EtkinliginiBul.Business.dll
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\bin\Debug\net6.0\EtkinliginiBul.Business.pdb
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\bin\Debug\net6.0\AppCore.dll
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\bin\Debug\net6.0\EtkinliginiBul.DAL.dll
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\bin\Debug\net6.0\AppCore.pdb
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\bin\Debug\net6.0\EtkinliginiBul.DAL.pdb
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\EtkinliginiBul.Business.csproj.CopyComplete
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\EtkinliginiBul.Business.dll
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\refint\EtkinliginiBul.Business.dll
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\EtkinliginiBul.Business.pdb
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.Business\obj\Debug\net6.0\ref\EtkinliginiBul.Business.dll

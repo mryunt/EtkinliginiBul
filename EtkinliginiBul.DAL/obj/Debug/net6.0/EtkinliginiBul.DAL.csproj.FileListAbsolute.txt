@@ -1,0 +1,17 @@
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\bin\Debug\net6.0\EtkinliginiBul.DAL.deps.json
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\bin\Debug\net6.0\EtkinliginiBul.DAL.runtimeconfig.json
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\bin\Debug\net6.0\EtkinliginiBul.DAL.dll
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\bin\Debug\net6.0\EtkinliginiBul.DAL.pdb
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\bin\Debug\net6.0\AppCore.dll
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\bin\Debug\net6.0\AppCore.pdb
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\EtkinliginiBul.DAL.csproj.AssemblyReference.cache
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\EtkinliginiBul.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\EtkinliginiBul.DAL.AssemblyInfoInputs.cache
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\EtkinliginiBul.DAL.AssemblyInfo.cs
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\EtkinliginiBul.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\EtkinliginiBul.DAL.csproj.CopyComplete
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\EtkinliginiBul.DAL.dll
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\refint\EtkinliginiBul.DAL.dll
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\EtkinliginiBul.DAL.pdb
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\EtkinliginiBul.DAL.genruntimeconfig.cache
+C:\Users\mryunt\source\repos\EtkinliginiBul\EtkinliginiBul.DAL\obj\Debug\net6.0\ref\EtkinliginiBul.DAL.dll
